@@ -11,7 +11,7 @@ int main() {
     }
     for (int j = 0; j < 8; j++) {
 
-        printf("entre les valeurs de T2:");
+        printf("entre les valeurs de T2:     ");
         scanf("%d", &T2[j]);
 
     }
