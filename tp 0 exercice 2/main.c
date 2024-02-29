@@ -16,7 +16,7 @@ int main() {
         }
     }
     if(C == 0){
-        printf("erreur !!");
+        printf("la valeur n'est pas presente !!");
     }
 
 
