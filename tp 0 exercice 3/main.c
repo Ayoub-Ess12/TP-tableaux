@@ -20,7 +20,7 @@ int main() {
         T3[k] = T1[k] + T2[k];
         printf("%d \t", T3[k]);
     }
-
+    printf("end")
 
     return 0;
 }
