@@ -11,7 +11,7 @@ int main() {
     }
     for (int j = 0; j < 8; j++) {
 
-        printf("entre les valeurs de T2:     ");
+        printf("entre les valeurs de T2:");
         scanf("%d", &T2[j]);
 
     }
@@ -20,7 +20,6 @@ int main() {
         T3[k] = T1[k] + T2[k];
         printf("%d \t", T3[k]);
     }
-    printf("end")
 
     return 0;
 }
