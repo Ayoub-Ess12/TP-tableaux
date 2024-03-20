@@ -2,10 +2,10 @@
 	"artifacts" : 
 	[
 		{
-			"path" : "EXERCICE_2_TP1.exe"
+			"path" : "exercice_1_TP_1_S2.exe"
 		},
 		{
-			"path" : "EXERCICE_2_TP1.pdb"
+			"path" : "exercice_1_TP_1_S2.pdb"
 		}
 	],
 	"backtrace" : 1,
@@ -56,7 +56,7 @@
 			]
 		}
 	],
-	"id" : "EXERCICE_2_TP1::@6890427a1f51a3e7e1df",
+	"id" : "exercice_1_TP_1_S2::@6890427a1f51a3e7e1df",
 	"link" : 
 	{
 		"commandFragments" : 
@@ -76,8 +76,8 @@
 		],
 		"language" : "C"
 	},
-	"name" : "EXERCICE_2_TP1",
-	"nameOnDisk" : "EXERCICE_2_TP1.exe",
+	"name" : "exercice_1_TP_1_S2",
+	"nameOnDisk" : "exercice_1_TP_1_S2.exe",
 	"paths" : 
 	{
 		"build" : ".",

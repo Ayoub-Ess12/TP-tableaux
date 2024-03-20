@@ -55,7 +55,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "c:/Users/aessa/CLionProjects/EXERCICE 2 TP1/cmake-build-debug"
+			"value" : "c:/Users/aessa/CLionProjects/exercice 1 TP 1 S2/cmake-build-debug"
 		},
 		{
 			"name" : "CMAKE_CACHE_MAJOR_VERSION",
@@ -431,7 +431,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/aessa/CLionProjects/EXERCICE 2 TP1/cmake-build-debug/CMakeFiles/pkgRedirects"
+			"value" : "C:/Users/aessa/CLionProjects/exercice 1 TP 1 S2/cmake-build-debug/CMakeFiles/pkgRedirects"
 		},
 		{
 			"name" : "CMAKE_GENERATOR",
@@ -503,7 +503,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "C:/Users/aessa/CLionProjects/EXERCICE 2 TP1"
+			"value" : "C:/Users/aessa/CLionProjects/exercice 1 TP 1 S2"
 		},
 		{
 			"name" : "CMAKE_INSTALL_PREFIX",
@@ -515,7 +515,7 @@
 				}
 			],
 			"type" : "PATH",
-			"value" : "C:/Program Files (x86)/EXERCICE_2_TP1"
+			"value" : "C:/Program Files (x86)/exercice_1_TP_1_S2"
 		},
 		{
 			"name" : "CMAKE_LINKER",
@@ -731,7 +731,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "EXERCICE_2_TP1"
+			"value" : "exercice_1_TP_1_S2"
 		},
 		{
 			"name" : "CMAKE_RANLIB",
@@ -1110,7 +1110,19 @@
 			"value" : "FALSE"
 		},
 		{
-			"name" : "EXERCICE_2_TP1_BINARY_DIR",
+			"name" : "_CMAKE_LINKER_PUSHPOP_STATE_SUPPORTED",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "linker supports push/pop state"
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : "TRUE"
+		},
+		{
+			"name" : "exercice_1_TP_1_S2_BINARY_DIR",
 			"properties" : 
 			[
 				{
@@ -1119,10 +1131,10 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/aessa/CLionProjects/EXERCICE 2 TP1/cmake-build-debug"
+			"value" : "C:/Users/aessa/CLionProjects/exercice 1 TP 1 S2/cmake-build-debug"
 		},
 		{
-			"name" : "EXERCICE_2_TP1_IS_TOP_LEVEL",
+			"name" : "exercice_1_TP_1_S2_IS_TOP_LEVEL",
 			"properties" : 
 			[
 				{
@@ -1134,7 +1146,7 @@
 			"value" : "ON"
 		},
 		{
-			"name" : "EXERCICE_2_TP1_SOURCE_DIR",
+			"name" : "exercice_1_TP_1_S2_SOURCE_DIR",
 			"properties" : 
 			[
 				{
@@ -1143,19 +1155,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/aessa/CLionProjects/EXERCICE 2 TP1"
-		},
-		{
-			"name" : "_CMAKE_LINKER_PUSHPOP_STATE_SUPPORTED",
-			"properties" : 
-			[
-				{
-					"name" : "HELPSTRING",
-					"value" : "linker supports push/pop state"
-				}
-			],
-			"type" : "INTERNAL",
-			"value" : "TRUE"
+			"value" : "C:/Users/aessa/CLionProjects/exercice 1 TP 1 S2"
 		}
 	],
 	"kind" : "cache",

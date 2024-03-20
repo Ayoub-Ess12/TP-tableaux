@@ -1,8 +1,8 @@
-# Install script for directory: C:/Users/aessa/Desktop/TP tableaux/TP 1/exercice 1
+# Install script for directory: C:/Users/aessa/CLionProjects/exercice 1 TP 1 S2
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
-  set(CMAKE_INSTALL_PREFIX "C:/Program Files (x86)/exercice_1_TP_1")
+  set(CMAKE_INSTALL_PREFIX "C:/Program Files (x86)/exercice_1_TP_1_S2")
 endif()
 string(REGEX REPLACE "/$" "" CMAKE_INSTALL_PREFIX "${CMAKE_INSTALL_PREFIX}")
 
@@ -45,5 +45,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "C:/Users/aessa/Desktop/TP tableaux/TP 1/exercice 1/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "C:/Users/aessa/CLionProjects/exercice 1 TP 1 S2/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

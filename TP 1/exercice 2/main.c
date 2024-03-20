@@ -1,26 +1,19 @@
 #include <stdio.h>
 
 int main() {
-    int T1[100], i = 0;
+    int T[100] ;
 
+        for (int i = 0; i < 100 ; i++) {
+            printf("remplis le tableau :");
+            scanf("%d",&T[i]);
 
-    while (1) {
-        printf("remplis le tableau :");
-        scanf("%d", &T1[i]);
-        if (T1[i] == -1) {
-            break;
+            if(T[i] == -1){
+                break;
+            }
         }
-        i++;
-    }
-
-
-    for (int j = 0; j < i; j++) {
-        T1[j]++;
-    }
-
-    printf("noveau tableau est :\t");
-    for (int j = 0; j < i; j++) {
-        printf("%d ", T1[j]);
+    printf("le noveaux tableau est : \n");
+    for (int i = 0; i < T[i]; i++) {
+        printf("%d \t",T[i]+1) ;
     }
 
     return 0;

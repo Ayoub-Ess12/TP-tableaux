@@ -1,3 +1,5 @@
 # ninja log v5
-3	114	7314353640822238	CMakeFiles/exercice_1_TP_1.dir/main.c.obj	9818cfbc2186c110
-115	268	7314353642320650	exercice_1_TP_1.exe	6be5f8e959f8b369
+1	556	7325963815254222	CMakeFiles/exercice_1_TP_1_S2.dir/main.c.obj	5630ba93deba70ec
+565	1111	7325963820939907	exercice_1_TP_1_S2.exe	cef5d11c8c572f32
+8	297	7325964566148596	CMakeFiles/exercice_1_TP_1_S2.dir/main.c.obj	5630ba93deba70ec
+298	571	7325964568659806	exercice_1_TP_1_S2.exe	cef5d11c8c572f32
